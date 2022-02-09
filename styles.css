@@ -91,7 +91,6 @@ a:hover {
 }
 
 .homepage {
-  min-height: 718px;
   background-image: url("image/backimg.png");
   background-repeat: no-repeat;
   background-size: 110% 105%;
