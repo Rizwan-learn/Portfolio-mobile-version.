@@ -93,8 +93,11 @@ a:hover {
 .homepage {
   background-image: url("image/backimg.png");
   background-repeat: no-repeat;
-  background-size: 110% 105%;
-  margin: 0 auto;
+  background-size: cover;
+  background-position: fixed;
+  margin: auto; 
+  overflow: hidden;
+  min-height: 600px;
 }
 
 .introduction {
