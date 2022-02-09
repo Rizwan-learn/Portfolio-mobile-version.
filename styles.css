@@ -94,8 +94,7 @@ a:hover {
   background-image: url("image/backimg.png");
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: fixed;
-  margin: auto; 
+  margin: auto;
   overflow: hidden;
   min-height: 600px;
 }
